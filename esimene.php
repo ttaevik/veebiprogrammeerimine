@@ -12,7 +12,7 @@
 	$timeNow = strtotime("now");
 	//echo ($timeNow - $schoolBegin);
 	
-	$minutesPassed = round($timenow - $schoolBegin) / 60);
+	$minutesPassed = round(($timenow - $schoolBegin) / 60);
 	echo $minutesPassed;
 	
 	//echo $hourNow;
