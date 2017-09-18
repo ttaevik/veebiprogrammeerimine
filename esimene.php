@@ -6,7 +6,7 @@
 	//var_dump($monthNamesET);
 	
 	//echo $monthNamesEt[3]; // masiiv algab nullist
-	$monthNow = $monthNamesEt[date("n" -1)];
+	$monthNow = $monthNamesEt[date("n") - 1];
 	
 	$hourNow = date("H");
 	
