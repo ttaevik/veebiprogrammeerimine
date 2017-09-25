@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 	//muutujad
 	$myName = "Tauri";
 	$myFamilyName = "Taevik";
